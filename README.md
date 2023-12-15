@@ -1,1 +1,2 @@
 # TensorFlow-GAN-for-Anime-Face-Generation
+This script demonstrates the construction and training of a Generative Adversarial Network (GAN) using TensorFlow. The GAN consists of two main components: a Generator and a Discriminator. The goal is to generate anime faces by training the network with a dataset of anime images. The generator creates new images from random noise, while the discriminator evaluates their authenticity.
